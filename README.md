@@ -1,3 +1,7 @@
+#### Project Duration (8 Hours)
+
+#### Instruksi Instalasi
+
 Clone Projek
 
 ```bash
